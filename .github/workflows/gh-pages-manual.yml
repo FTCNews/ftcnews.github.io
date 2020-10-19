@@ -5,6 +5,7 @@ on:
   push:
     branches:
     - content
+  workflow_dispatch:
 
 jobs:
   build-deploy:
