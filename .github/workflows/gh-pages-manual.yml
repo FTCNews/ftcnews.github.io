@@ -1,5 +1,5 @@
 # from https://github.com/marketplace/actions/hugo-setup
-name: github pages
+name: github pages manual
 
 on:
   push:
